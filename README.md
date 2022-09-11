@@ -2,7 +2,9 @@
 # Frontend
 Maqueta frontend html, css y js del portfolio de trabajo final del Programa Argentina Programa
 # Backend
-Estructura interna de administración de contenido y conexiones con api y bd
+Estructura interna de administración de contenido y conexiones con api y bd, realizada con Apache NetBeans IDE 15, MySQL Workbench 8.0
+#Test & Pruebas
+Se realiza con Postman 9.31.3
 
 # Objetivo
 Desarrollar una aplicación web full stack, que mostrará: tus datos personales, estudios cursados, experiencia laboral, conocimiento de las
